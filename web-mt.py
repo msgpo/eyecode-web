@@ -3,7 +3,7 @@ sys.stdout = sys.stderr
 base_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(base_dir)
 
-import cherrypy, random, string, MySQLdb, json
+import cherrypy, random, string, json
 from time import mktime
 from sqlalchemy import create_engine, Column, Integer, BigInteger, Text, DateTime, ForeignKey, TypeDecorator, Boolean
 from sqlalchemy.ext.declarative import declarative_base
@@ -14,8 +14,6 @@ from eyecode import get_program_order
 from urllib import urlencode
 from datetime import datetime
 from dateutil import parser
-
-mysql_mod = MySQLdb
 
 words = ["hotshot", "fiendish", "shadow", "radish", "pugnacious",
          "haywire", "chummy", "sloth", "unworldly", "boggle",
