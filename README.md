@@ -20,9 +20,9 @@ Screenshots
 
 Home screen:
 
-![Home Screen](https://github.com/synesthesiam.com/eyecode-web/raw/master/img/home_screen.png)
+![Home Screen](https://github.com/synesthesiam/eyecode-web/raw/master/img/home_screen.png)
 
 
 Trial screen:
 
-![Trial Screen](https://github.com/synesthesiam.com/eyecode-web/raw/master/img/trial_screen.png)
+![Trial Screen](https://github.com/synesthesiam/eyecode-web/raw/master/img/trial_screen.png)
