@@ -1,0 +1,7 @@
+<p>
+The <b>Rectangle</b> class takes the bounds of the rectangle as arguments to the constructor and provides <b>width()</b>, <b>height()</b>, and <b>area()</b> methods. While the class definition is lengthy, the program body itself is quite short.
+</p>
+
+<p>
+We predict that more experienced programmers will quickly chunk the <b>Rectangle</b> class, spending most of their time on lines 17 to 21. Less experienced programmers will likely skim the class definition and refer back to it often.
+</p>

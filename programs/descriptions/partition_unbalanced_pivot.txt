@@ -1,0 +1,6 @@
+<p>
+We predict that programmers will make fewer errors on this version than on the <span class="version">unbalanced</span> version, since the pivot element (3) is explicitly acknowledged. 
+</p>
+<p>
+Programmers in general are likely to still be slower than in the <span class="version">balanced</span> version, however, due to the unbalanced partitioning.
+</p>

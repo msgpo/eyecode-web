@@ -1,0 +1,114 @@
+body {
+    background: white;
+    color: #333;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+a {
+    color: blue;
+}
+
+textarea {
+    border: 1px solid black;
+    font-size: 1em;
+}
+
+.programs {
+    font-size: 1.25em;
+}
+
+.done {
+    color: #AAA;
+}
+
+.notdone {
+    font-weight: bold;
+    color: #C33;
+}
+
+.speech {
+    border: 3px solid #160;
+    padding: 7px;
+    font-size: 1.15em;
+}
+
+.dialog {
+    border: 3px solid #160;
+    padding: 7px;
+    font-size: 1.25em;
+    text-align: center;
+    display: none;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.answer {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 1em;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+}
+
+.question {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 1em;
+    padding: 5px 10px 5px 10px;
+}
+
+label {
+    color: purple;
+    font-size: 1em;
+}
+
+.name {
+    color: purple;
+}
+
+.special {
+    color: #C33;
+}
+
+.dialog-text {
+    font-size: 1em;
+}
+
+.response {
+    color: purple;
+    font-size: 1em;
+}
+
+.age {
+    width: 3em;
+    text-align: center;
+}
+
+label.error {
+    color: red;
+    font-size: 1.5em;
+}
+
+.consent {
+    border: 3px solid #160;
+    padding: 10px;
+    font-size: 1.25em;
+    text-align: center;
+    display: none;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-family: times, serif;
+    font-size: 14px;
+}
+
+.code {
+    font-family: monospace;
+    font-size: 1.5em;
+    color: #6aa6f2;
+}

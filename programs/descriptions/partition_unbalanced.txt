@@ -1,0 +1,3 @@
+<p>
+We predict that programmers will make the most errors in this version, since the list unevenly partitions into two <b>low</b>s and one <b>high</b>.
+</p>

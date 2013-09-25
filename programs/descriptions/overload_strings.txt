@@ -1,0 +1,3 @@
+<p>
+We predict that programmers in general will be fastest with this version, since it only requires one "copy" of one operator to be used.
+</p>

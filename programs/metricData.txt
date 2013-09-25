@@ -1,0 +1,762 @@
+=== File: between_functions.py ===
+Module between_functions.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module between_functions.py
+---------------------------------------------
+
+          3    maxBlockDepth
+          7    numBlocks
+        496    numCharacters
+          2    numFunctions
+         15    numKeywords
+         24    numLines
+        249    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- between
+- common
+
+
+McCabe Complexity Metric for file between_functions.py
+-------------------------------------------------------
+
+          1    __main__
+          3    between
+          3    common
+
+
+COCOMO 2's SLOC Metric for between_functions.py
+------------------------------------------------
+
+         20    between_functions.py
+
+=== File: between_inline.py ===
+Module between_inline.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module between_inline.py
+------------------------------------------
+
+          2    maxBlockDepth
+          7    numBlocks
+        365    numCharacters
+         15    numKeywords
+         19    numLines
+        210    numTokens
+
+
+McCabe Complexity Metric for file between_inline.py
+----------------------------------------------------
+
+          7    __main__
+
+
+COCOMO 2's SLOC Metric for between_inline.py
+---------------------------------------------
+
+         17    between_inline.py
+
+=== File: counting_nospace.py ===
+Module counting_nospace.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module counting_nospace.py
+--------------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+         77    numCharacters
+          4    numKeywords
+          3    numLines
+         36    numTokens
+
+
+McCabe Complexity Metric for file counting_nospace.py
+------------------------------------------------------
+
+          2    __main__
+
+
+COCOMO 2's SLOC Metric for counting_nospace.py
+-----------------------------------------------
+
+          3    counting_nospace.py
+
+=== File: counting_twospaces.py ===
+Module counting_twospaces.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module counting_twospaces.py
+----------------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+         81    numCharacters
+          4    numKeywords
+          5    numLines
+         40    numTokens
+
+
+McCabe Complexity Metric for file counting_twospaces.py
+--------------------------------------------------------
+
+          2    __main__
+
+
+COCOMO 2's SLOC Metric for counting_twospaces.py
+-------------------------------------------------
+
+          3    counting_twospaces.py
+
+=== File: funcall_nospace.py ===
+Module funcall_nospace.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module funcall_nospace.py
+-------------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+         50    numCharacters
+          1    numFunctions
+          3    numKeywords
+          4    numLines
+         40    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- f
+
+
+McCabe Complexity Metric for file funcall_nospace.py
+-----------------------------------------------------
+
+          1    __main__
+          1    f
+
+
+COCOMO 2's SLOC Metric for funcall_nospace.py
+----------------------------------------------
+
+          3    funcall_nospace.py
+
+=== File: funcall_space.py ===
+Module funcall_space.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module funcall_space.py
+-----------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+         54    numCharacters
+          1    numFunctions
+          3    numKeywords
+          4    numLines
+         44    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- f
+
+
+McCabe Complexity Metric for file funcall_space.py
+---------------------------------------------------
+
+          1    __main__
+          1    f
+
+
+COCOMO 2's SLOC Metric for funcall_space.py
+--------------------------------------------
+
+          3    funcall_space.py
+
+=== File: funcall_vars.py ===
+Module funcall_vars.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module funcall_vars.py
+----------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+         72    numCharacters
+          1    numFunctions
+          3    numKeywords
+          7    numLines
+         62    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- f
+
+
+McCabe Complexity Metric for file funcall_vars.py
+--------------------------------------------------
+
+          1    __main__
+          1    f
+
+
+COCOMO 2's SLOC Metric for funcall_vars.py
+-------------------------------------------
+
+          6    funcall_vars.py
+
+=== File: initvar_bothbad.py ===
+Module initvar_bothbad.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module initvar_bothbad.py
+-------------------------------------------
+
+          1    maxBlockDepth
+          3    numBlocks
+        103    numCharacters
+          6    numKeywords
+          9    numLines
+         89    numTokens
+
+
+McCabe Complexity Metric for file initvar_bothbad.py
+-----------------------------------------------------
+
+          3    __main__
+
+
+COCOMO 2's SLOC Metric for initvar_bothbad.py
+----------------------------------------------
+
+          8    initvar_bothbad.py
+
+=== File: initvar_good.py ===
+Module initvar_good.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module initvar_good.py
+----------------------------------------
+
+          1    maxBlockDepth
+          3    numBlocks
+        103    numCharacters
+          6    numKeywords
+          9    numLines
+         89    numTokens
+
+
+McCabe Complexity Metric for file initvar_good.py
+--------------------------------------------------
+
+          3    __main__
+
+
+COCOMO 2's SLOC Metric for initvar_good.py
+-------------------------------------------
+
+          8    initvar_good.py
+
+=== File: initvar_onebad.py ===
+Module initvar_onebad.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module initvar_onebad.py
+------------------------------------------
+
+          1    maxBlockDepth
+          3    numBlocks
+        103    numCharacters
+          6    numKeywords
+          9    numLines
+         89    numTokens
+
+
+McCabe Complexity Metric for file initvar_onebad.py
+----------------------------------------------------
+
+          3    __main__
+
+
+COCOMO 2's SLOC Metric for initvar_onebad.py
+---------------------------------------------
+
+          8    initvar_onebad.py
+
+=== File: order_inorder.py ===
+Module order_inorder.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module order_inorder.py
+-----------------------------------------
+
+          1    maxBlockDepth
+          4    numBlocks
+        137    numCharacters
+          3    numFunctions
+          7    numKeywords
+         14    numLines
+        113    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- f
+- g
+- h
+
+
+McCabe Complexity Metric for file order_inorder.py
+---------------------------------------------------
+
+          1    __main__
+          1    f
+          1    g
+          1    h
+
+
+COCOMO 2's SLOC Metric for order_inorder.py
+--------------------------------------------
+
+         11    order_inorder.py
+
+=== File: order_shuffled.py ===
+Module order_shuffled.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module order_shuffled.py
+------------------------------------------
+
+          1    maxBlockDepth
+          4    numBlocks
+        137    numCharacters
+          3    numFunctions
+          7    numKeywords
+         14    numLines
+        113    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- f
+- g
+- h
+
+
+McCabe Complexity Metric for file order_shuffled.py
+----------------------------------------------------
+
+          1    __main__
+          1    f
+          1    g
+          1    h
+
+
+COCOMO 2's SLOC Metric for order_shuffled.py
+---------------------------------------------
+
+         11    order_shuffled.py
+
+=== File: overload_multmixed.py ===
+Module overload_multmixed.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module overload_multmixed.py
+----------------------------------------------
+
+          1    numBlocks
+         78    numCharacters
+          3    numKeywords
+         11    numLines
+         65    numTokens
+
+
+McCabe Complexity Metric for file overload_multmixed.py
+--------------------------------------------------------
+
+          1    __main__
+
+
+COCOMO 2's SLOC Metric for overload_multmixed.py
+-------------------------------------------------
+
+          9    overload_multmixed.py
+
+=== File: overload_plusmixed.py ===
+Module overload_plusmixed.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module overload_plusmixed.py
+----------------------------------------------
+
+          1    numBlocks
+         78    numCharacters
+          3    numKeywords
+         11    numLines
+         65    numTokens
+
+
+McCabe Complexity Metric for file overload_plusmixed.py
+--------------------------------------------------------
+
+          1    __main__
+
+
+COCOMO 2's SLOC Metric for overload_plusmixed.py
+-------------------------------------------------
+
+          9    overload_plusmixed.py
+
+=== File: overload_strings.py ===
+Module overload_strings.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module overload_strings.py
+--------------------------------------------
+
+          1    numBlocks
+         98    numCharacters
+          3    numKeywords
+         11    numLines
+         65    numTokens
+
+
+McCabe Complexity Metric for file overload_strings.py
+------------------------------------------------------
+
+          1    __main__
+
+
+COCOMO 2's SLOC Metric for overload_strings.py
+-----------------------------------------------
+
+          9    overload_strings.py
+
+=== File: partition_balanced.py ===
+Module partition_balanced.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module partition_balanced.py
+----------------------------------------------
+
+          2    maxBlockDepth
+          4    numBlocks
+        105    numCharacters
+          6    numKeywords
+          5    numLines
+         70    numTokens
+
+
+McCabe Complexity Metric for file partition_balanced.py
+--------------------------------------------------------
+
+          4    __main__
+
+
+COCOMO 2's SLOC Metric for partition_balanced.py
+-------------------------------------------------
+
+          5    partition_balanced.py
+
+=== File: partition_unbalanced_pivot.py ===
+Module partition_unbalanced_pivot.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module partition_unbalanced_pivot.py
+------------------------------------------------------
+
+          2    maxBlockDepth
+          4    numBlocks
+        120    numCharacters
+          6    numKeywords
+          6    numLines
+         73    numTokens
+
+
+McCabe Complexity Metric for file partition_unbalanced_pivot.py
+----------------------------------------------------------------
+
+          4    __main__
+
+
+COCOMO 2's SLOC Metric for partition_unbalanced_pivot.py
+---------------------------------------------------------
+
+          6    partition_unbalanced_pivot.py
+
+=== File: partition_unbalanced.py ===
+Module partition_unbalanced.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module partition_unbalanced.py
+------------------------------------------------
+
+          2    maxBlockDepth
+          4    numBlocks
+        102    numCharacters
+          6    numKeywords
+          5    numLines
+         67    numTokens
+
+
+McCabe Complexity Metric for file partition_unbalanced.py
+----------------------------------------------------------
+
+          4    __main__
+
+
+COCOMO 2's SLOC Metric for partition_unbalanced.py
+---------------------------------------------------
+
+          5    partition_unbalanced.py
+
+=== File: rectangle_basic.py ===
+Module rectangle_basic.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module rectangle_basic.py
+-------------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+        293    numCharacters
+          1    numFunctions
+          4    numKeywords
+         18    numLines
+        147    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- area
+
+
+McCabe Complexity Metric for file rectangle_basic.py
+-----------------------------------------------------
+
+          1    __main__
+          1    area
+
+
+COCOMO 2's SLOC Metric for rectangle_basic.py
+----------------------------------------------
+
+         16    rectangle_basic.py
+
+=== File: rectangle_class.py ===
+Module rectangle_class.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module rectangle_class.py
+-------------------------------------------
+
+          2    maxBlockDepth
+          6    numBlocks
+        421    numCharacters
+          1    numClasses
+          4    numFunctions
+         24    numKeywords
+         21    numLines
+        205    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- Rectangle.__init__
+- Rectangle.area
+- Rectangle.height
+- Rectangle.width
+
+
+Classes DocString present(+) or missing(-)
+------------------------------------------
+
+- Rectangle
+
+
+McCabe Complexity Metric for file rectangle_class.py
+-----------------------------------------------------
+
+          1    Rectangle.__init__
+          1    Rectangle.area
+          1    Rectangle.height
+          1    Rectangle.width
+          1    __main__
+
+
+COCOMO 2's SLOC Metric for rectangle_class.py
+----------------------------------------------
+
+         16    rectangle_class.py
+
+=== File: rectangle_tuples.py ===
+Module rectangle_tuples.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module rectangle_tuples.py
+--------------------------------------------
+
+          1    maxBlockDepth
+          2    numBlocks
+        277    numCharacters
+          1    numFunctions
+          4    numKeywords
+         14    numLines
+        137    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- area
+
+
+McCabe Complexity Metric for file rectangle_tuples.py
+------------------------------------------------------
+
+          1    __main__
+          1    area
+
+
+COCOMO 2's SLOC Metric for rectangle_tuples.py
+-----------------------------------------------
+
+         12    rectangle_tuples.py
+
+=== File: scope_diffname.py ===
+Module scope_diffname.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module scope_diffname.py
+------------------------------------------
+
+          1    maxBlockDepth
+          3    numBlocks
+        144    numCharacters
+          2    numFunctions
+          3    numKeywords
+         12    numLines
+         77    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- add_1
+- twice
+
+
+McCabe Complexity Metric for file scope_diffname.py
+----------------------------------------------------
+
+          1    __main__
+          1    add_1
+          1    twice
+
+
+COCOMO 2's SLOC Metric for scope_diffname.py
+---------------------------------------------
+
+         10    scope_diffname.py
+
+=== File: scope_samename.py ===
+Module scope_samename.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module scope_samename.py
+------------------------------------------
+
+          1    maxBlockDepth
+          3    numBlocks
+        156    numCharacters
+          2    numFunctions
+          3    numKeywords
+         12    numLines
+         77    numTokens
+
+
+Functions DocString present(+) or missing(-)
+--------------------------------------------
+
+- add_1
+- twice
+
+
+McCabe Complexity Metric for file scope_samename.py
+----------------------------------------------------
+
+          1    __main__
+          1    add_1
+          1    twice
+
+
+COCOMO 2's SLOC Metric for scope_samename.py
+---------------------------------------------
+
+         10    scope_samename.py
+
+=== File: whitespace_linedup.py ===
+Module whitespace_linedup.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module whitespace_linedup.py
+----------------------------------------------
+
+          1    numBlocks
+        275    numCharacters
+          3    numKeywords
+         14    numLines
+        112    numTokens
+
+
+McCabe Complexity Metric for file whitespace_linedup.py
+--------------------------------------------------------
+
+          1    __main__
+
+
+COCOMO 2's SLOC Metric for whitespace_linedup.py
+-------------------------------------------------
+
+         11    whitespace_linedup.py
+
+=== File: whitespace_zigzag.py ===
+Module whitespace_zigzag.py is missing a module doc string. Detected at line 1
+
+
+Basic Metrics for module whitespace_zigzag.py
+---------------------------------------------
+
+          1    numBlocks
+        259    numCharacters
+          3    numKeywords
+         14    numLines
+        112    numTokens
+
+
+McCabe Complexity Metric for file whitespace_zigzag.py
+-------------------------------------------------------
+
+          1    __main__
+
+
+COCOMO 2's SLOC Metric for whitespace_zigzag.py
+------------------------------------------------
+
+         11    whitespace_zigzag.py
+
+
+*** Processed 25 modules in run ***

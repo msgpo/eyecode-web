@@ -1,0 +1,6 @@
+<p>
+The <b>order</b> program is designed to test the effect of code's spatial location on visual search strategy.
+</p>
+<p>
+It is expected that displaying function definitions in the same order they are used will facilitate quick responses. It is unknown, however, exactly how it will impact visual search.
+</p>

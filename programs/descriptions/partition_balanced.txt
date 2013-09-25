@@ -1,0 +1,3 @@
+<p>
+We predict that programmers will make the fewest errors on this version, since the list on line 1 has an odd number of elements, and therefore nicely partitions into two <b>low</b> and two <b>high</b> elements.
+</p>

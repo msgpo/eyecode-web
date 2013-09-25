@@ -1,0 +1,6 @@
+<p>
+With each step of the operator separated out (and bound to a unique name), we predict that there will be few errors and that programmers will be faster to answer in general.
+</p>
+<p>
+Less experienced programmers will likely benefit more, since their short-term memory capacities for multi-step operators are assumed to be lower.
+</p>

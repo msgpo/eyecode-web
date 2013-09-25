@@ -1,0 +1,6 @@
+<p>
+In this version, the definitions of <b>f</b>, <b>g</b>, and <b>h</b> are not in execution order (lines 11-13). We expect that this will have a negative impact on response times in general, but that the impact will be lesser for experienced programmers.
+</p>
+<p>
+Experience level may also modulate search strategy. We expect that less experienced programmers will search the function definitions from top to bottom each time one of them is needed, but that more experienced programmers will either jump directly the correct definition or chunk the functions in advance, negating the need to revisit the definitions.
+</p>

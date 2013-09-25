@@ -1,0 +1,6 @@
+<p>
+A step below the <b>class</b> version, the <b>tuples</b> version represents a rectangle as two tuples (left, top) and (bottom, top). While having the fewest lines of code, this version has the longest identifiers.
+</p>
+<p>
+We predict that more experienced programmers will quickly chunk the <b>area()</b> method and spend more time on lines 6 to 14. Less experienced programmers will likely refer to the definition of <b>area()</b> multiple times.
+</p>

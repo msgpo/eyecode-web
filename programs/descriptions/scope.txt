@@ -1,0 +1,6 @@
+<p>
+The <b>scope</b> program is intended to test whether programmers are more willing to forget scoping rules when variable names are shared across contexts.
+</p>
+<p>
+In both versions, the functions <b>add_1</b> and <b>double</b> functions have no effect, since their return values are never used.
+</p>

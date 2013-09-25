@@ -1,0 +1,3 @@
+<p>
+This version inlines the two program operations (<b>between</b> and <b>common</b>). We predict that experienced programmers will be slightly faster, being able to recognize the <b>between</b> schema.
+</p>

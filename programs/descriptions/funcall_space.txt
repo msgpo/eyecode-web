@@ -1,0 +1,3 @@
+<p>
+We predict that adding space around the multiplication operators will lessen the chance of error, though programmers will still likely take longer than in the <span class="version">vars</span> version.
+</p>

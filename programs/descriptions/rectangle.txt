@@ -1,0 +1,3 @@
+<p>
+The <b>rectangle</b> program computes and prints the area of two rectangles (first is 10x10 = 100, second is 5x5 = 25). This program is meant to test how programmers react to different ways of abstracting the structure of a rectangle.
+</p>

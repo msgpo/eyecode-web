@@ -1,0 +1,6 @@
+<p>
+This version pulls out the two main program operations (<b>between</b> and <b>common</b>) into functions. We predict that more experienced programmers will spend their time on the function definitions, and then quickly scan lines 15 to 24 (making few jumps back to lines 1 to 13).
+</p>
+<p>
+We predict that less experienced programmers will give more equal weight to all lines, and make frequent trips back to the function definitions (lines 1 to 13).
+</p>

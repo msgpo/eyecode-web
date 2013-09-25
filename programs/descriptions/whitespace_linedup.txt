@@ -1,0 +1,6 @@
+<p>
+In this version, related operations (separated by vertical whitespace) are lined-up by binary operators (=, +, *).
+</p>
+<p>
+We expect programmers to be faster at this version, since this code is considered more "readable." We predict that the binary operators will also be focal points during visual search (perhaps used as a jumping off point to identifiers).
+</p>

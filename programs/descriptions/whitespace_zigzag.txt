@@ -1,0 +1,9 @@
+<p>
+This version of the <b>whitespace</b> program does not align related operations horizontally, producing a zig-zag pattern on the right side.
+</p>
+<p>
+Since this style of coding is more common, we can use this as a base-line to compare against the <span class="version">linedup</span> version. We expect programmers to be slower in responding to this version (taking experience into account, of course).
+</p>
+<p>
+Assuming programmers are slower in this version, it will be interesting to see if we can quantify why. Do programmers make fewer fixations when code is lined-up because more information can be gathered per fixation? Are fixations shorter because deciding on where to fixate next is easier?
+</p>

@@ -1,0 +1,6 @@
+<p>
+In this version, the functions <b>f</b>, <b>g</b>, and <b>h</b> are defined in the same order they called on lines 11-13. We predict that this will facilitate faster responses across the board.
+</p>
+<p>
+In addition, it will be interesting to see if experience level predicts whether or not the definitions of <b>f</b> and <b>g</b> are re-read when the programmer is evaluating <b>h</b>.
+</p>

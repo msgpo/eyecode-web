@@ -1,0 +1,6 @@
+<p>
+The <b>between</b> program is intended to test the effects of pulled-out versus inline functionality.
+</p>
+<p>
+It is expected that having functionality pulled out will benefit experienced programmers, who can quickly chunk the definitions and interpret the main body of the program. Less experienced programmers are expected to take more time, and refer to function definitions more often.
+</p>

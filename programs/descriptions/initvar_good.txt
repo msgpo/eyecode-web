@@ -1,0 +1,3 @@
+<p>
+In both cases, the printed result matches was was likely intended (<b>a</b> becomes the product of the list on line 2, <b>b</b> becomes the sum of the list on line 7).
+</p>

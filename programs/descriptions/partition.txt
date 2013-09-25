@@ -1,0 +1,3 @@
+<p>
+The <b>partition</b> program is a simple test to see if expectations about symmetry can influence response errors.
+</p>

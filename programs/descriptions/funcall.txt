@@ -1,0 +1,6 @@
+<p>
+The <b>funcall</b> program is intended to test the effects of spacing and breaking apart pieces of a computation.
+</p>
+<p>
+We expect that additional whitespace and explicitly breaking the calls to <b>f</b> into steps will reduce errors, though more experienced programmers may show little change between the different versions.
+</p>

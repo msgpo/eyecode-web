@@ -1,0 +1,7 @@
+<p>
+With <b>a = 0</b>, the first result printed ends up being 0, rather than the product of the numbers in the list on line 2 (presumably what was intended).
+</p>
+
+<p>
+With <b>b = 1</b>, the second result printed is off by 1, assuming the intended output was the sum of the numbers on line 7.
+</p>

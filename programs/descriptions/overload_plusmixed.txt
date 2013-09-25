@@ -1,0 +1,3 @@
+<p>
+We predict that programmers in general will be slower with this version and will be more likely to produce errors due to needing two "copies" of the &plus; operator in their heads (one for addition, one for concatenation).
+</p>

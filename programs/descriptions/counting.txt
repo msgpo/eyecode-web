@@ -1,0 +1,6 @@
+<p>
+This simple set of programs is intended to test the effects of vertical spacing on whether or not the final <b>print</b> statement belongs in the <b>for</b> loop.
+</p>
+<p>
+We expect that less experienced programmers will be more likely to mistakenly attribute the final <b>print</b> statement to the main body as the vertical space increases. More experienced programmers will likely verify the indentation level and not produce the error.
+</p>

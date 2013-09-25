@@ -1,0 +1,3 @@
+<p>
+With the calls to <b>f</b> crowded together, it may take longer for programmers to compute the correct answer. We predict that substituting an addition for a multiplication will be a common error.
+</p>

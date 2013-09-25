@@ -1,0 +1,3 @@
+<p>
+This version of the program uses only integer variables and functions. We predict that there will be less of a difference in visual search strategies between programmers of varying experience levels (though more experienced programmers will likely be quicker to answer overall).
+</p>

@@ -1,0 +1,6 @@
+<p>
+The <b>initvar</b> program is intended to test the effects of schema congruence/incongruence.
+</p>
+<p>
+We expect more experienced programmers to produce more errors in the <span class="version">bothbad</span> and <span class="version">onebad</span> version because they are likely to incorrectly infer intent. While less experienced programmers will likely be slower, we expect them to make fewer errors.
+</p>

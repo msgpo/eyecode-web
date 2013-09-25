@@ -1,0 +1,6 @@
+<p>
+The <b>overload</b> program is intended to test the effect of having overloaded operators present in the same program.
+</p>
+<p>
+We expect there to be the strongest effect (time or error-wise) for the  <span class="version">plusmixed</span> version, since this version contains an overloaded operator.
+</p>
